@@ -1,0 +1,3 @@
+rootProject.name = 'claver_code_text_I'
+
+include ':app'
